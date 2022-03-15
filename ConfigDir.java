@@ -8,6 +8,7 @@ public class ConfigDir {
 	private Properties propiedades;
 	private static ConfigDir conf;
         private String hola = "hola que ase!";
+	private String bye = "me voy cya!";
 	
 	public ConfigDir() throws IOException{
 		propiedades= new Properties();
