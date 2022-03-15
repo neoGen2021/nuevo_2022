@@ -7,7 +7,7 @@ import java.util.Properties;
 public class ConfigDir {
 	private Properties propiedades;
 	private static ConfigDir conf;
-	
+        private String hola = "hola que ase!";
 	
 	public ConfigDir() throws IOException{
 		propiedades= new Properties();
