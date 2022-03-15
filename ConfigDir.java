@@ -10,6 +10,8 @@ public class ConfigDir {
         private String hola = "hola que ase!";
 	private String bye = "me voy cya!";
 	
+	private String nuevarama="modificado, comiteado y pusheado desde mi nueva rama";
+	
 	public ConfigDir() throws IOException{
 		propiedades= new Properties();
 		InputStream is= getClass().getResourceAsStream("propiedades/prop.properties");
