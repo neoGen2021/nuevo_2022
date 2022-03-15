@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 public class ConfigDir {
-	private Properties propiedades;
+	private Properties cambio;
 	private static ConfigDir conf;
         private String hola = "hola que ase!";
 	
