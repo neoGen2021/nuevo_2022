@@ -31,6 +31,6 @@ public class ConfigDir {
 			flag=true;
 		return flag;
 	}
-	
+	//HOLA
 	
 }
